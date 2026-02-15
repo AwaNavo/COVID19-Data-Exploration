@@ -1,4 +1,5 @@
 # COVID-19 Data Exploration
+![covid_img](https://github.com/user-attachments/assets/0409e396-88fd-4fca-ad13-9190280a7738)
 
 In this project, I performed an  exploratory data analysis (EDA) on a global COVID-19 dataset using Microsoft SQL Server. 
 The goal was to extract meaningful insights about the pandemic’s spread, mortality rates, and vaccination progress across different countries.
